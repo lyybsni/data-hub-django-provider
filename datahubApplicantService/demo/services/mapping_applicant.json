@@ -1,0 +1,18 @@
+{
+  "Applicant": {
+    "applicantId": {
+      "from": "applicant_id"
+    },
+    "name": {
+      "from": "applicant_name"
+    },
+    "phone": {
+      "from": "phone_number"
+    },
+    "education": {
+      "graduationDate": {
+        "from": "graduate_date"
+      }
+    }
+  }
+}
